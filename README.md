@@ -28,3 +28,7 @@ https://github.com/viniciusxsousa/rocketMovie---Backend
 
   ### :desktop_computer: Previa do Projeto
 
+
+https://github.com/viniciusxsousa/rocketMovie-Frontend/assets/81489425/0aafde22-600f-4709-ab10-6906c62c02a7
+
+
